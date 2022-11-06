@@ -2,6 +2,6 @@
 
 <p align="center"><img src="./assets/Logo.gif" alt="eralpozcan" /></a> </p>
 
-Şu anda **JavaScript ve ASP.NET** öğreniyorum.
-Bana **HTML, CSS ve C#** hakkında soru sorabilirsin.
-İlgilendiğim konular **Ön Uç Geliştirme**dir.
+* Şu anda **JavaScript ve ASP.NET** öğreniyorum.
+* Bana **HTML, CSS ve C#** hakkında soru sorabilirsin.
+* İlgilendiğim konular **Ön Uç Geliştirme**dir.
