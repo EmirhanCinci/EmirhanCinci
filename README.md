@@ -20,5 +20,4 @@
 
 <div align="center">
     <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=EmirhanCinci&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
-    <img alt="Readme Stats Top Lang" width="48%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanCinci&layout=compact">
 </div>
