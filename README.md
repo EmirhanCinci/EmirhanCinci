@@ -12,3 +12,8 @@
     <a href="https://twitter.com/emirhan_cinci" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="emirhancinci" height="80" width="80" /></a>
     <a href="https://instagram.com/emirhancinci" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="emirhancinci" height="50" width="50" /></a>
 </p> 
+
+<div align="center">
+    <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=EmirhanCinci&show_icons=true&theme=radical&count_private=true">
+    <img alt="Emirhan CİNCİ GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EmirhanCinci&theme=algolia&hide_border=true">
+</div>
