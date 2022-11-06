@@ -4,7 +4,7 @@
 
 * Şu anda **JavaScript ve ASP.NET** öğreniyorum.
 * Bana **HTML, CSS ve C#** hakkında soru sorabilirsin.
-* İlgilendiğim konular **Ön Uç Geliştirme**dir.
+* İlgilendiğim konular **Ön Uç Geliştirme Teknolojileri**dir.
 
 <h3 align="center">İletişim</h3>
 <p align="center">
