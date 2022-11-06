@@ -8,5 +8,6 @@
 
 <h3 align="center">İletişim</h3>
 <p align="center">
-    <a href="https://linkedin.com/in/emirhancinci" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="emirhancinci" height="30" width="30" /></a>
+    <a href="https://linkedin.com/in/emirhancinci" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="emirhancinci" height="50" width="50" /></a>
+    <a href="https://twitter.com/emirhan_cinci" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="emirhancinci" height="50" width="50" /></a>
 </p> 
