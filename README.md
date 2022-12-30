@@ -18,7 +18,3 @@
     <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=EmirhanCinci&show_icons=true&theme=radical&count_private=true">
     <img alt="Emirhan CİNCİ GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EmirhanCinci&theme=algolia&hide_border=true">
 </div>
-
-<div align="center">
-    <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=EmirhanCinci&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
-</div>
