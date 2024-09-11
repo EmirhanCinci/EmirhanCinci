@@ -31,6 +31,18 @@
 <br/>
  
 <h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
+
+<br/>
+
+* **`Microsoft.EntityFrameworkCore.SqlServer`**
+* **`FluentValidation.AspNetCore`**
+* **`Serilog.AspNetCore`**
+* **`Autofac.Extensions.DependencyInjection`**
+* **`Autofac.Extras.DynamicProxy`**
+* **`Microsoft.AspNetCore.Authentication.JwtBearer`**
+* **`AutoMapper`**
+* **`Swagger`**
+
 <br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo" />
