@@ -41,6 +41,7 @@
 * **`Autofac.Extras.DynamicProxy`**
 * **`Microsoft.AspNetCore.Authentication.JwtBearer`**
 * **`AutoMapper`**
+* **`SignalR`**
 * **`Swagger`**
 
 <br/>
