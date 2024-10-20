@@ -43,6 +43,7 @@
 * **`AutoMapper`**
 * **`SignalR`**
 * **`Swagger`**
+* **`Cinctruct.Infrastructure`**
 
 <br/>
 <div align="center">
